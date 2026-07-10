@@ -20,12 +20,16 @@ const firstThought = [
     text: "SENYUM SAMA RAMAHNYA NAYLA, social energynya juga yang banyak. ga pernah absen buat nyapa orang dan selalu senyum "
   },
   {
-    author: "Amel (singkong)",
+    author: "Amel (Singkong)",
     text: "Ceriaa. Itu sih yang pertama kali kepikiran kalau denger nama Nay. Kayaknya tiap ketemu kamu tuh bawa suasana yang lebih hidup aja. Senyummu sama energi positifmu gampang banget nular ke orang-orang di sekitar"
   },
   {
-    author: "Salma (bengkuang)",
+    author: "Salma (Bengkuang)",
     text: "She's so kind i think dan cukup lemah lembut, someone that happy to help her friends"
+  },
+  {
+    author: "Alimah (Bawang merah)",
+    text: "Positive person, bener2 anak periang dan aku selalu seneng kalo denger namanya"
   }
 ];
 
@@ -59,6 +63,11 @@ const ifTheyWere = [
     author: "Salma (bengkuang)",
     title: "Clover 🍀",
     reason: "Clover maybe, idk but she's full of positive vibes (ea) and luckiness will always be around her"
+  },
+  {
+    author: "Alimah (Bawang Merah)",
+    title: "Ibu Peri 🧚‍",
+    reason: " Ibu peri, nay bener2 definisi orang yg penyayang, bijak, lemah lembut, juga penuh kasih"
   }
 ];
 
@@ -86,6 +95,10 @@ const memories = [
   {
     author: "Salma (bengkuang)",
     text: "Emm apa yahh, jujur I'm not that close with her. But based on my chat w/ her maybe she's so polite and helpful when i need smth she answered me fast enough (we help each other) and i really grateful for it"
+  },
+  {
+    author: "Alimah (Bawang merah)",
+    text: "Ospek hehehehehe, love banget ama ospek soalnya aku ama nay dipertemukan di ospek juga disatukan lagi di ospek"
   }
 ];
 
@@ -113,6 +126,10 @@ const futureLetters = [
   {
     author: "Salma (bengkuang)",
     text: "Keep spreading your positive vibes energy and my pray for all the best of you (good fortune, grateful life and etc) will always with you"
+  },
+  {
+    author: "Alimah (Bawang merah)",
+    text: "Nay sayangkuu, makasii yaaa buat cinta kasih yang udah dikasih nay buat aku. Aku selalu berharap my pretty ini selalu dilimpahkan rezekinya, diberikan bahagia teruss, panjang umur, sehat selalu, dan dimudahkan segala urusannyaa. Semoga nay selalu dikelilingi oleh orang baik dan sayang ama nay seperti nay memperlakukan orang lain. I always hope for all the good things to come to you!! Soo, terus jadi orang baik yaa sayangg. Semoga Allah meninggikan derajat nayy. Happy birthday my pretty, be happy forever💖💖💖💖 titip salam buat mamah papah yahh💖"
   }
 ];
   
@@ -122,7 +139,7 @@ const galleryPhotos = [
   { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
   { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia 🥔🥕🍠" },
   { src: "assets/photos/6.jpeg", alt: "Kalo ini wujud temen kelasnya" },
-  { src: "assets/photos/7.jpeg", alt: "Peregangan abis membantai PLOOO" },
+  { src: "assets/photos/7.jpeg", alt: "Oh jadi ini sohib dari ospek Nay wkwk" },
   { src: "assets/photos/9.jpeg", alt: "Nom nom nom bareng fiyaa" },
   { src: "assets/photos/10.jpeg", alt: "Nih kek mau pap ke mama yah (mmf kalo salah)" },
   { src: "assets/photos/11.jpeg", alt: "Hasil collab Nay+Chika di PLO" },
