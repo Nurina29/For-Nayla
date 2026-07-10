@@ -49,7 +49,7 @@ const futureLetters = [
 ];
 
 const galleryPhotos = [
-  { src: "assets/photos/3.jpg", alt: "Nayla bocil beneran" },
+  { src: "assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
   { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
   { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" },
   { src: "assets/photos/nayla4.jpg", alt: "Nayla lucu" },
