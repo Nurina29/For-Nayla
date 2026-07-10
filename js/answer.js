@@ -34,7 +34,7 @@ const ifTheyWere = [
   },
   {
     author: "Umbi Talas aka Vibi",
-    title: "Kelinci putih🐇",
+    title: "Kelinci putih 🐇",
     reason: "Tapi ya selain ibu peri, kalau nayla jadi hewan, one thing that fits best is kelinci putih. KARENA AKHH LEMBUTT, BAIKK, dan suka makan wortel wkwkwkwk (nay kamu umbi wortel kan yaa). kalau jadi benda dia kayak boneka, kalau profesi dia cocok jadi dokter"
   },
   {
