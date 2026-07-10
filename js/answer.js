@@ -49,10 +49,7 @@ const futureLetters = [
 ];
 
 const galleryPhotos = [
-  { src: "assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
-  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
-  { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" },
-  { src: "assets/photos/nayla4.jpg", alt: "Nayla lucu" },
-  { src: "assets/photos/nayla5.jpg", alt: "Nayla dan keluarga" },
-  { src: "assets/photos/nayla6.jpg", alt: "Nayla bahagia" }
+  { src: "/assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
+  { src: "/assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
+  { src: "/assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" }
 ];
