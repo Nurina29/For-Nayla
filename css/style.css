@@ -737,7 +737,7 @@ padding:16px 34px;
   height: auto;
   object-fit: contain;
   display: block;
-  aspect-ratio: 1/1;
+  aspect-ratio: unset;
   object-fit: cover;
   filter: sepia(0.1) saturate(0.9);
   background: #f0e8e8;
