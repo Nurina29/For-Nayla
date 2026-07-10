@@ -1347,48 +1347,65 @@ padding:16px 34px;
 }
 
 /* ==========================================
-   PAGE NAVIGATION
+   NEXT PAGE
 ========================================== */
 
 .section-next{
-    margin-top: 3rem;
-    text-align: center;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+
+    margin:70px 0 10px;
 }
 
-.next-note{
-    font-family: 'Caveat', cursive;
-    font-size: 1.35rem;
-    color: #9d7f91;
-    margin-bottom: 1rem;
-    opacity: .85;
+.next-text{
+    font-family:'Caveat', cursive;
+    font-size:1.6rem;
+    color:#b68ea3;
+    margin-bottom:8px;
+    opacity:.85;
 }
 
-.next-button{
-    display: inline-flex;
-    align-items: center;
-    gap: .6rem;
+.next-arrow{
+    text-decoration:none;
 
-    padding: .9rem 1.7rem;
+    font-size:2.3rem;
+    color:#d68da8;
 
-    background: rgba(255,255,255,.75);
-    border: 1px dashed #efc8d8;
-    border-radius: 999px;
+    transition:.3s ease;
 
-    color: #6d5968;
-    text-decoration: none;
-
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-
-    transition: .3s ease;
-    backdrop-filter: blur(8px);
+    animation:bounce 2s infinite;
 }
 
-.next-button:hover{
-    transform: translateY(-4px);
-    background: white;
-    box-shadow: 0 12px 28px rgba(231,188,206,.25);
+.next-arrow:hover{
+    color:#f09cbc;
+    transform:scale(1.2);
 }
+@keyframes bounce{
+
+    0%{
+        transform:translateY(0);
+    }
+
+    25%{
+        transform:translateY(8px);
+    }
+
+    50%{
+        transform:translateY(0);
+    }
+
+    75%{
+        transform:translateY(4px);
+    }
+
+    100%{
+        transform:translateY(0);
+    }
+
+}
+
 
 html{
     scroll-behavior:smooth;
