@@ -16,12 +16,16 @@ const firstThought = [
     text: "kalau aku denger nama nayla ya, yang kebayang tu ibu peri, karena nayla charming dan se lembut ituu?!?! 😭. sempet mikir kek.. ni manusia klo jengkel selalu senyum kali yaa gapernah marahh?? 😭. well.. she is very beautiful, very kind, very smart, aduuhh gatau lagi deh gueee 😫😫😫"
   },
   {
-    author: "Chikaa",
+    author: "Chikaa (Umbi Gadung)",
     text: "SENYUM SAMA RAMAHNYA NAYLA, social energynya juga yang banyak. ga pernah absen buat nyapa orang dan selalu senyum "
   },
   {
-    author: "Amel",
+    author: "Amel (singkong)",
     text: "Ceriaa. Itu sih yang pertama kali kepikiran kalau denger nama Nay. Kayaknya tiap ketemu kamu tuh bawa suasana yang lebih hidup aja. Senyummu sama energi positifmu gampang banget nular ke orang-orang di sekitar"
+  },
+  {
+    author: "Salma (bengkuang)",
+    text: "She's so kind i think dan cukup lemah lembut, someone that happy to help her friends"
   }
 ];
 
@@ -42,14 +46,19 @@ const ifTheyWere = [
     reason: "Tapi ya selain ibu peri, kalau nayla jadi hewan, one thing that fits best is kelinci putih. KARENA AKHH LEMBUTT, BAIKK, dan suka makan wortel wkwkwkwk (nay kamu umbi wortel kan yaa). kalau jadi benda dia kayak boneka, kalau profesi dia cocok jadi dokter"
   },
   {
-    author: "Chikaa",
+    author: "Chikaa (Umbi Gadung)",
     title: "BUNGA 💐🌸🏵🌹🌺🌻🌼🌷",
     reason: "soalnya Nayla tuh selalu seger bahkan kelas pagi sampe sore keliatan tetep seger dan cantikkk"
   },
   {
-    author: "Amel",
+    author: "Amel (singkong)",
     title: "Bunga Matahari 🌻",
-    reason: "karena bunga matahari identik sama kehangatan dan selalu bikin suasana terasa lebih cerah. Menurutku kamu juga gitu, kehadiranmu selalu berhasil bikin orang lain ikut semangat dan nyaman."
+    reason: "karena bunga matahari identik sama kehangatan dan selalu bikin suasana terasa lebih cerah. Menurutku kamu juga gitu, kehadiranmu selalu berhasil bikin orang lain ikut semangat dan nyaman"
+  },
+  {
+    author: "Salma (bengkuang)",
+    title: "Clover 🍀",
+    reason: "Clover maybe, idk but she's full of positive vibes (ea) and luckiness will always be around her"
   }
 ];
 
@@ -67,12 +76,16 @@ const memories = [
     text: "satu hal yang aku inget dari nayy adalah pas kita sekelass yeyeyeyy. i'm very gratefull dipertemukan sama nay sejak semester 1 🤩. inget gaa pas berli kena cutter? selain aku yang nganter berli ke kamar mandii, nay dengan sigap langsung ambil betadine dan hansaplast trus nyamperin ke kamar mandi buat bantu obatin lukanyaaa 🧚 #ibuperi"
   },
   {
-    author: "Chikaa",
+    author: "Chikaa (Umbi Gadung)",
     text: "banyak banget sih ceritanya sama nay, tapi aku selalu inget cerita kita ngerjain plo, ini berkenang sih nayy jujur"
   },
   {
-    author: "Amel",
+    author: "Amel (singkong)",
     text: "Waktu jadi co di praktikum. Yang paling aku inget tuh kamu sering banget bantu ini itu tanpa diminta. Hal-hal kecil yang kamu lakuin mungkin kelihatannya biasa aja, tapi itu ngebantu banget. Pokoknya ahk sayang deh sama Nay"
+  },
+  {
+    author: "Salma (bengkuang)",
+    text: "Emm apa yahh, jujur I'm not that close with her. But based on my chat w/ her maybe she's so polite and helpful when i need smth she answered me fast enough (we help each other) and i really grateful for it"
   }
 ];
 
@@ -90,12 +103,16 @@ const futureLetters = [
     text: "haloo nayy, ini vibi dari umbi talas wkwkwkwk (duh knp talas ya? maaf asbun tiba-tiba kepikiran talas karena 3M abis bikin tepung talas 😭). happy birthdayy yaa.. semoga panjang umur, sehat selalu, segala urusannya dipermudah, dilancarkan setiap jalannya, dan semogaa menjadi pribadi yang lebih baik untuk kedepannyaa. nayla manusia hebatt, manusia kuatt, liked and loved by everyone. harapanku buat nayy, tetep jadi orang baikk yaa, tetep jadi manusia yang selalu menebarkan kebaikan dan memberikan energi positif untuk orang orang sekitar. akuu tauu pasti jadi nayy ga se gampang dan se mudah keliatannya, nay pasti pernah ngerasa down, pernah ngerasa hidupnya berat dan terpuruk. tapi nayy satu hal yang kamu harus tau, you're the greatest person i've ever met, sekali lagi kamu manusia kuat, manusia hebat. duh aku ga kebayang dibalik senyum yang selalu kamu tunjukin ke orang orang, pasti pernah ada kesedihan yang gapernah kamu tunjukin. nayy kalau suatu hari nanti kamu merasa sedih dan gaada yang bisa ngertiin nayy, selalu ingat kalau nayy dikelilingi orang baik yang sayang sama nayy yaa, soo jangan pernah merasa sendiri. once again, happy birthday ❤️"
   },
   {
-    author: "Chikaa",
+    author: "Chikaa (Umbi Gadung)",
     text: "NAY TETEP SENYUM YAAA, jangan banyak sedihnyaaa. semoga kebaikan selalu menyertai kamuuu"
   },
   {
-    author: "Amel",
+    author: "Amel (singkong)",
     text: "Nay, makasih banyak yaa udah hadir di dunia dan jadi diri kamu yang sekarang. Semoga ke depannya selalu dipertemukan sama hal-hal baik, semua yang lagi kamu usahain dimudahin, kuliahnya lancar, sehat terus, makin bahagia, dan dikelilingi orang-orang yang tulus sayang sama kamu. Pokoknya semoga yang terbaik selalu nyamperin Nay. Happy birthday! 🤍🤍🤍"
+  },
+  {
+    author: "Salma (bengkuang)",
+    text: "Keep spreading your positive vibes energy and my pray for all the best of you (good fortune, grateful life and etc) will always with you"
   }
 ];
   
@@ -106,4 +123,8 @@ const galleryPhotos = [
   { src: "assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
   { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
   { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" },
+  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
+  { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia 🥔🥕🍠" },
+  { src: "assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
+  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
 ];
