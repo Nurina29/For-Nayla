@@ -735,8 +735,8 @@ padding:16px 34px;
 .polaroid img {
   width: 100%;
   display: block;
-  aspect-ratio: 3/4;
-  object-fit: cover;
+  aspect-ratio: auto;
+  object-fit: contain;
   filter: sepia(0.1) saturate(0.9);
   background: #f0e8e8;
    
