@@ -47,9 +47,12 @@ const futureLetters = [
     text: "Dear Nayla, jangan pernah berubah jadi orang yang hangat dan tulus. Dunia butuh lebih banyak orang seperti kamu. Aku bangga bisa mengenalmu, dan aku yakin kamu akan jadi seseorang yang hebat di masa depan."
   }
 ];
-
+  
 const galleryPhotos = [
   { src: "/assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
   { src: "/assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
   { src: "/assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" }
+  { src: "https://i.pravatar.cc/300?img=40", alt: "Nayla lucu" },
+  { src: "https://i.pravatar.cc/300?img=45", alt: "Nayla dan keluarga" },
+  { src: "https://i.pravatar.cc/300?img=50", alt: "Nayla bahagia" }
 ];
