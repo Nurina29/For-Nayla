@@ -118,16 +118,24 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     container.innerHTML = galleryPhotos.map((item, index) => {
-      const rotations = [-2.5, 3, -1.8, 2.2, -3, 1.5];
-      const captions = ['👧 Nayla bocil beneran', 'Samwis 🥔+🥕', 'Potret Umbi fams yang berbahagia 🥔🥕🍠', '😄 funny', '💕 family', '🌟 joyful'];
-      return `
-        <div class="polaroid-item" style="transform: rotate(${rotations[index % rotations.length]}deg);" onclick="openLightbox('${item.src}')">
-          <div class="tape"></div>
-          <img src="${item.src}" alt="${item.alt}" loading="lazy" onerror="this.src='https://via.placeholder.com/300/FFDCEB/574A57?text=📷'">
-          <div class="polaroid-caption">${captions[index % captions.length]}</div>
-        </div>
-      `;
-    }).join('');
+  const rotations = [-2.5, 3, -1.8, 2.2, -3, 1.5];
+
+  return `
+    <div class="polaroid-item"
+         style="transform: rotate(${rotations[index % rotations.length]}deg);"
+         onclick="openLightbox('${item.src}')">
+
+      <div class="tape"></div>
+
+      <img src="${item.src}"
+           alt="${item.alt}"
+           loading="lazy"
+           onerror="this.src='https://via.placeholder.com/300/FFDCEB/574A57?text=📷'">
+
+      <div class="polaroid-caption">${item.alt}</div>
+    </div>
+  `;
+}).join('');
   }
 
   // ============================================
