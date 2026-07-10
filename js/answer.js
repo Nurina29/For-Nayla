@@ -18,6 +18,10 @@ const firstThought = [
   {
     author: "Chikaa",
     text: "SENYUM SAMA RAMAHNYA NAYLA, social energynya juga yang banyak. ga pernah absen buat nyapa orang dan selalu senyum "
+  },
+  {
+    author: "Amel",
+    text: "Ceriaa. Itu sih yang pertama kali kepikiran kalau denger nama Nay. Kayaknya tiap ketemu kamu tuh bawa suasana yang lebih hidup aja. Senyummu sama energi positifmu gampang banget nular ke orang-orang di sekitar"
   }
 ];
 
@@ -41,6 +45,11 @@ const ifTheyWere = [
     author: "Chikaa",
     title: "BUNGA 💐🌸🏵🌹🌺🌻🌼🌷",
     reason: "soalnya Nayla tuh selalu seger bahkan kelas pagi sampe sore keliatan tetep seger dan cantikkk"
+  },
+  {
+    author: "Amel",
+    title: "Bunga Matahari🌻",
+    reason: "karena bunga matahari identik sama kehangatan dan selalu bikin suasana terasa lebih cerah. Menurutku kamu juga gitu, kehadiranmu selalu berhasil bikin orang lain ikut semangat dan nyaman."
   }
 ];
 
@@ -60,6 +69,10 @@ const memories = [
   {
     author: "Chikaa",
     text: "banyak banget sih ceritanya sama nay, tapi aku selalu inget cerita kita ngerjain plo, ini berkenang sih nayy jujur"
+  },
+  {
+    author: "Amel",
+    text: "Waktu jadi co di praktikum. Yang paling aku inget tuh kamu sering banget bantu ini itu tanpa diminta. Hal-hal kecil yang kamu lakuin mungkin kelihatannya biasa aja, tapi itu ngebantu banget. Pokoknya ahk sayang deh sama Nay"
   }
 ];
 
@@ -79,6 +92,10 @@ const futureLetters = [
   {
     author: "Chikaa",
     text: "NAY TETEP SENYUM YAAA, jangan banyak sedihnyaaa. semoga kebaikan selalu menyertai kamuuu"
+  },
+  {
+    author: "Amel",
+    text: "Nay, makasih banyak yaa udah hadir di dunia dan jadi diri kamu yang sekarang. Semoga ke depannya selalu dipertemukan sama hal-hal baik, semua yang lagi kamu usahain dimudahin, kuliahnya lancar, sehat terus, makin bahagia, dan dikelilingi orang-orang yang tulus sayang sama kamu. Pokoknya semoga yang terbaik selalu nyamperin Nay. Happy birthday! 🤍🤍🤍"
   }
 ];
   
