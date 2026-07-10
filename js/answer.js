@@ -118,13 +118,13 @@ const futureLetters = [
   
 const galleryPhotos = [
   { src: "assets/photos/3.jpeg", alt: "👧 Nayla bocil beneran" },
+  { src: "assets/photos/1.jpg", alt: "Wujud Duta Nay wkwk" },
   { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
   { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia 🥔🥕🍠" },
-  { src: "assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
-  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
-  { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" },
-  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
-  { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia 🥔🥕🍠" },
-  { src: "assets/photos/3.jpeg", alt: "Nayla bocil beneran" },
-  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
+  { src: "assets/photos/6.jpeg", alt: "Kalo ini wujud temen kelasnya" },
+  { src: "assets/photos/7.jpeg", alt: "Peregangan abis membantai PLOOO" },
+  { src: "assets/photos/9.jpeg", alt: "Nom nom nom bareng fiyaa" },
+  { src: "assets/photos/10.jpeg", alt: "Nih kek mau pap ke mama yah (mmf kalo salah)" },
+  { src: "assets/photos/11.jpeg", alt: "Hasil collab Nay+Chika di PLO" },
+  { src: "assets/photos/12.jpeg", alt: "Geng arisan Nay" },
 ];
