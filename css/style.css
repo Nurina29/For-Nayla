@@ -989,14 +989,14 @@ padding:16px 34px;
 }
 
 .envelope .letter-content p {
-  font-family: 'Caveat', cursive;
+  font-family: 'Poppins', cursive;
   font-size: 1.25rem;
   line-height: 1.8;
   color: #3d333d;
 }
 
 .envelope .letter-content .letter-author {
-  font-family: 'Caveat', cursive;
+  font-family: 'Poppins', cursive;
   font-weight: 600;
   color: #7a6a7a;
   margin-top: 0.8rem;
