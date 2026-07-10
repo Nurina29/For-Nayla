@@ -48,7 +48,7 @@ const ifTheyWere = [
   },
   {
     author: "Amel",
-    title: "Bunga Matahari🌻",
+    title: "Bunga Matahari 🌻",
     reason: "karena bunga matahari identik sama kehangatan dan selalu bikin suasana terasa lebih cerah. Menurutku kamu juga gitu, kehadiranmu selalu berhasil bikin orang lain ikut semangat dan nyaman."
   }
 ];
