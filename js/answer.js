@@ -49,10 +49,10 @@ const futureLetters = [
 ];
 
 const galleryPhotos = [
-  { src: "https://i.pravatar.cc/300?img=11", alt: "Nayla tersenyum" },
-  { src: "https://i.pravatar.cc/300?img=20", alt: "Nayla dengan teman" },
-  { src: "https://i.pravatar.cc/300?img=25", alt: "Nayla candid" },
-  { src: "https://i.pravatar.cc/300?img=40", alt: "Nayla lucu" },
-  { src: "https://i.pravatar.cc/300?img=45", alt: "Nayla dan keluarga" },
-  { src: "https://i.pravatar.cc/300?img=50", alt: "Nayla bahagia" }
+  { src: "assets/photos/3.jpg", alt: "Nayla bocil beneran" },
+  { src: "assets/photos/2.jpg", alt: "Samwis 🥔+🥕" },
+  { src: "assets/photos/4.jpg", alt: "Potret Umbi fams yang berbahagia" },
+  { src: "assets/photos/nayla4.jpg", alt: "Nayla lucu" },
+  { src: "assets/photos/nayla5.jpg", alt: "Nayla dan keluarga" },
+  { src: "assets/photos/nayla6.jpg", alt: "Nayla bahagia" }
 ];
