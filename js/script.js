@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     container.innerHTML = galleryPhotos.map((item, index) => {
       const rotations = [-2.5, 3, -1.8, 2.2, -3, 1.5];
-      const captions = ['🌷 happy', '🌸 with friends', '✨ candid', '😄 funny', '💕 family', '🌟 joyful'];
+      const captions = ['👧 Nayla bocil beneran', 'Samwis 🥔+🥕', 'Potret Umbi fams yang berbahagia 🥔🥕🍠', '😄 funny', '💕 family', '🌟 joyful'];
       return `
         <div class="polaroid-item" style="transform: rotate(${rotations[index % rotations.length]}deg);" onclick="openLightbox('${item.src}')">
           <div class="tape"></div>
